@@ -1,16 +1,18 @@
-title: Your awesome title
+title: 梅溪青秀
 lang: en
-description: Write an awesome description for your new site here
+description: 中国铁建-梅溪青秀三期质量问题让人忧心
 
 ## local method ##
 # theme: jekyll-rtd-theme
-# debug:
-#   compress: false
+debug:
+  compress: false
 #   dist: true
 #   shortcodes: true
 
 ## remote method ##
 remote_theme: rundocs/jekyll-rtd-theme
+
+github_metadata: false
 
 readme_index:
   with_frontmatter: true
