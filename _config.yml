@@ -12,7 +12,7 @@ debug:
 ## remote method ##
 remote_theme: rundocs/jekyll-rtd-theme
 
-github_metadata: false
+# github_metadata: false
 
 readme_index:
   with_frontmatter: true
