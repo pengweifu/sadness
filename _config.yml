@@ -12,6 +12,9 @@ debug:
 ## remote method ##
 remote_theme: rundocs/jekyll-rtd-theme
 
+scss: |
+  .addons-wrap.flex-column, .copyright {display:none!important;}
+
 # github_metadata: false
 
 readme_index:
